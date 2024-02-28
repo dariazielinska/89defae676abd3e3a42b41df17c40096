@@ -21,7 +21,7 @@ Follow these instructions to set up and run the project locally.
 2. Navigate to the project folder:
 
    ```bash
-   cd /89defae676abd3e3a42b41df17c40096
+   cd 89defae676abd3e3a42b41df17c40096
 
 3. Install dependencies::
 
